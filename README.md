@@ -5,3 +5,4 @@ There are 4 algorithms used in it :
 2.) Decision Tree
 3.) Support Vector Machines(SVM)
 4.) Logistic Regression
+with the accuracy measures specified in it .
