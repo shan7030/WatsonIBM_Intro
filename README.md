@@ -6,3 +6,6 @@ There are 4 algorithms used in it :
 3.) Support Vector Machines(SVM)
 4.) Logistic Regression
 with the accuracy measures specified in it .
+
+
+This is created for Project for the course ML using Python by IBM - Coursera
